@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\joaoz\Documents\scripts-database\Contas_a_Pagar\out\artifacts\Contas_a_Pagar_jar\Contas_a_Pagar.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.32.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\joaoz\AppData\Local\Programs\Eclipse Adoptium\jdk-25.0.4.101-hotspot\bin;C:\Users\joaoz\AppData\Local\Programs\Eclipse Adoptium\jdk-8.0.504.1-hotspot\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\joaoz\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\joaoz\AppData\Local\Programs\Python\Python314\;C:\Users\joaoz\AppData\Local\Microsoft\WindowsApps;C:\Users\joaoz\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\joaoz\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.2\bin;C:\Users\joaoz\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot;C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.32.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\joaoz\AppData\Local\Programs\Eclipse Adoptium\jdk-25.0.4.101-hotspot\bin;C:\Users\joaoz\AppData\Local\Programs\Eclipse Adoptium\jdk-8.0.504.1-hotspot\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\joaoz\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\joaoz\AppData\Local\Programs\Python\Python314\;C:\Users\joaoz\AppData\Local\Microsoft\WindowsApps;C:\Users\joaoz\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\joaoz\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.2\bin;C:\Users\joaoz\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.026.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-26.0.2.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joaoz\Documents\scripts-database\Contas_a_Pagar\out\artifacts\Contas_a_Pagar_jar\Contas_a_Pagar.exe"
+Args length:	115/32768 chars
+Exit code:	0
